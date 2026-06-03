@@ -1,0 +1,187 @@
+{
+  "Axis3": [
+    {
+      "AxisName": 4,
+      "Direction": 1,
+      "MinValue": 0.0,
+      "MaxValue": 100.0,
+      "UseSplineFilter": false,
+      "TargetRole": "Clutch"
+    }
+  ],
+  "Migrated": true,
+  "Buttons": [
+    {
+      "ButtonId": 0,
+      "TargetRole": "ShiftDown"
+    },
+    {
+      "ButtonId": 1,
+      "TargetRole": "ShiftUp"
+    },
+    {
+      "ButtonId": 2,
+      "TargetRole": "Ignition"
+    },
+    {
+      "ButtonId": 3,
+      "TargetRole": "Starter"
+    },
+    {
+      "ButtonId": 4,
+      "TargetRole": "DRS"
+    },
+    {
+      "ButtonId": 5,
+      "TargetRole": "Tearoff"
+    },
+    {
+      "ButtonId": 6,
+      "TargetRole": "Flash"
+    },
+    {
+      "ButtonId": 7,
+      "TargetRole": "VR Recenter"
+    },
+    {
+      "ButtonId": 8,
+      "TargetRole": "Reset Set"
+    },
+    {
+      "ButtonId": 9,
+      "TargetRole": "PitLimit"
+    },
+    {
+      "ButtonId": 10,
+      "TargetRole": "Tow"
+    },
+    {
+      "ButtonId": 11,
+      "TargetRole": "Lights"
+    },
+    {
+      "ButtonId": 12,
+      "TargetRole": "VOIP"
+    },
+    {
+      "ButtonId": 13,
+      "TargetRole": "Wiper"
+    },
+    {
+      "ButtonId": 14,
+      "TargetRole": "Delta"
+    },
+    {
+      "ButtonId": 15,
+      "TargetRole": "Reset Respawn"
+    },
+    {
+      "ButtonId": 16,
+      "TargetRole": "Funky 1 Push"
+    },
+    {
+      "ButtonId": 17,
+      "TargetRole": "Funky 1 Rotate L"
+    },
+    {
+      "ButtonId": 18,
+      "TargetRole": "Funky 1 Rotate R"
+    },
+    {
+      "ButtonId": 19,
+      "TargetRole": "Funky 1 Up"
+    },
+    {
+      "ButtonId": 20,
+      "TargetRole": "Funky 1 Down"
+    },
+    {
+      "ButtonId": 21,
+      "TargetRole": "Funky 1 Left"
+    },
+    {
+      "ButtonId": 22,
+      "TargetRole": "Funky 1 Right"
+    },
+    {
+      "ButtonId": 23,
+      "TargetRole": "Funky 2 Push"
+    },
+    {
+      "ButtonId": 24,
+      "TargetRole": "Funky 2 Rotate L"
+    },
+    {
+      "ButtonId": 25,
+      "TargetRole": "Funky 2 Rotate R"
+    },
+    {
+      "ButtonId": 26,
+      "TargetRole": "Funky 2 Up"
+    },
+    {
+      "ButtonId": 27,
+      "TargetRole": "Funky 2 Down"
+    },
+    {
+      "ButtonId": 28,
+      "TargetRole": "Funky 2 Left"
+    },
+    {
+      "ButtonId": 29,
+      "TargetRole": "Funky 2 Right"
+    },
+    {
+      "ButtonId": 30,
+      "TargetRole": "ENC1 Push"
+    },
+    {
+      "ButtonId": 31,
+      "TargetRole": "ENC1-"
+    },
+    {
+      "ButtonId": 32,
+      "TargetRole": "ENC1+"
+    },
+    {
+      "ButtonId": 33,
+      "TargetRole": "ENC2 Push"
+    },
+    {
+      "ButtonId": 34,
+      "TargetRole": "ENC2-"
+    },
+    {
+      "ButtonId": 35,
+      "TargetRole": "ENC2+"
+    },
+    {
+      "ButtonId": 36,
+      "TargetRole": "ENC3 Push"
+    },
+    {
+      "ButtonId": 37,
+      "TargetRole": "ENC3-"
+    },
+    {
+      "ButtonId": 38,
+      "TargetRole": "ENC3+"
+    },
+    {
+      "ButtonId": 39,
+      "TargetRole": "ROT1-"
+    },
+    {
+      "ButtonId": 40,
+      "TargetRole": "ROT1+"
+    },
+    {
+      "ButtonId": 51,
+      "TargetRole": "ROT2-"
+    },
+    {
+      "ButtonId": 52,
+      "TargetRole": "ROT2+"
+    }
+  ]
+}

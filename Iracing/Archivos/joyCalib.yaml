@@ -1,0 +1,32 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'Simucube 2 Pro'
+   InstanceGUID: '{F99C7430-D8D1-11F0-8007-444553540000}'
+   ProductGUID: '{0D6016D0-0000-0000-0000-504944564944}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32770
+     CalibMax: 65535
+ - DeviceName: 'VRS DirectForce Pro Pedals'
+   InstanceGUID: '{F99C7430-D8D1-11F0-8008-444553540000}'
+   ProductGUID: '{A3BE0483-0000-0000-0000-504944564944}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Z Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 65535
+   - Axis: 1
+     AxisName: 'Y Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 65535
+   - Axis: 2
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 65535
+...

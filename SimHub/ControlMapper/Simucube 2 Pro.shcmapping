@@ -1,0 +1,62 @@
+{
+  "Axis3": [],
+  "Migrated": true,
+  "Buttons": [
+    {
+      "ButtonId": 8,
+      "TargetRole": "ShiftDown"
+    },
+    {
+      "ButtonId": 9,
+      "TargetRole": "ShiftUp"
+    },
+    {
+      "ButtonId": 14,
+      "TargetRole": "Funky 2 Rotate L"
+    },
+    {
+      "ButtonId": 15,
+      "TargetRole": "Funky 2 Rotate R"
+    },
+    {
+      "ButtonId": 16,
+      "TargetRole": "Funky 1 Rotate L"
+    },
+    {
+      "ButtonId": 17,
+      "TargetRole": "Funky 1 Rotate R"
+    },
+    {
+      "ButtonId": 20,
+      "TargetRole": "Tow"
+    },
+    {
+      "ButtonId": 22,
+      "TargetRole": "PitLimit"
+    },
+    {
+      "ButtonId": 23,
+      "TargetRole": "DRS"
+    },
+    {
+      "ButtonId": 25,
+      "TargetRole": "Flash"
+    },
+    {
+      "ButtonId": 28,
+      "TargetRole": "Reset Set"
+    },
+    {
+      "ButtonId": 30,
+      "TargetRole": "Tearoff"
+    },
+    {
+      "ButtonId": 32,
+      "TargetRole": "Reset Respawn"
+    },
+    {
+      "ButtonId": 34,
+      "TargetRole": "VR Recenter"
+    }
+  ]
+}

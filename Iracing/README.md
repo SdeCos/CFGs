@@ -1,8 +1,6 @@
 # Iracing CFGs
-## ToDo
-- [ ] Lista con las ubicaciones de los archivos
-- [ ] app.ini (audio)
-- [ ] controls.mac (controles)
-- [ ] RenderDX11Monitor.ini (graficos)
-- [ ] joyCalib.yaml (calibraciones)
-- [ ] cameras (posiciones asientos personalizadas por coche)
+## Configuraciones
+- [ ] app.ini (audio) `[WIP]` *(Pendiente de configurar)*
+- [x] [controls.cfg](./Archivos/controls.cfg) (controles)
+- [ ] RenderDX11Monitor.ini (graficos) `[WIP]` *(Pendiente de configurar)*
+- [ ] [joyCalib.yaml](./Archivos/joyCalib.yaml) (calibraciones)

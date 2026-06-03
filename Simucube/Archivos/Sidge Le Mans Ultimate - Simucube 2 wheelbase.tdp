@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "device": "wheel_base_sc2",
+    "modification_time": "2026-06-03T10:42:26",
+    "name": "Sidge Le Mans Ultimate",
+    "profiles": {
+        "wheel_base_sc2": {
+            "bumpstop": 0,
+            "center_damping": 0,
+            "center_damping_angle": 0,
+            "damping": 100,
+            "endstop_offset": 0,
+            "friction": 30,
+            "gamma_filter": 1,
+            "in_game_centering": 25,
+            "ioni_damping": 24,
+            "ioni_friction": 13,
+            "ioni_inertia": 0,
+            "low_latency": 20,
+            "max_strength": 100,
+            "notch_attenuation": -25.5,
+            "notch_freq": 1,
+            "notch_qfactor": 7.1000000000000005,
+            "reconstruction": 3,
+            "sawtooth": 30,
+            "sine": 37,
+            "slew_rate": 2.78,
+            "spring": 40,
+            "square": 30,
+            "static_force": 0,
+            "static_force_speed": 1000,
+            "torque_bandwidth_limit": 7,
+            "triangle": 30,
+            "v": 1,
+            "wb_range": 900,
+            "wheel_paddles_to_accessory": true
+        }
+    },
+    "revision": 0,
+    "role": "wheelbase",
+    "tags": [
+        "game:le-mans-ultimate"
+    ],
+    "type": "device",
+    "uuid": "a85d5ce0-ce93-11ef-86e1-a31417cc7062",
+    "v": 1
+}

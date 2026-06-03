@@ -1,0 +1,1285 @@
+{
+  "ControllerMapping": {
+    "Axis3": [
+      {
+        "Centered": false,
+        "AxisName": 4,
+        "Direction": 0,
+        "MinValue": 0.0,
+        "MaxValue": 100.0,
+        "UseSplineFilter": false,
+        "TargetRole": "Clutch"
+      },
+      {
+        "Centered": false,
+        "AxisName": 5,
+        "Direction": 0,
+        "MinValue": 0.0,
+        "MaxValue": 100.0,
+        "UseSplineFilter": false,
+        "TargetRole": ""
+      },
+      {
+        "Centered": false,
+        "AxisName": 6,
+        "Direction": 0,
+        "MinValue": 0.0,
+        "MaxValue": 100.0,
+        "UseSplineFilter": false,
+        "TargetRole": ""
+      },
+      {
+        "Centered": false,
+        "AxisName": 1,
+        "Direction": 0,
+        "MinValue": 0.0,
+        "MaxValue": 100.0,
+        "UseSplineFilter": false,
+        "TargetRole": ""
+      },
+      {
+        "Centered": false,
+        "AxisName": 2,
+        "Direction": 0,
+        "MinValue": 0.0,
+        "MaxValue": 100.0,
+        "UseSplineFilter": false
+      },
+      {
+        "Centered": false,
+        "AxisName": 3,
+        "Direction": 0,
+        "MinValue": 0.0,
+        "MaxValue": 100.0,
+        "UseSplineFilter": false
+      }
+    ],
+    "VirtualButtons": [],
+    "Keys": [],
+    "Migrated": false,
+    "Buttons": [
+      {
+        "ButtonId": 0,
+        "TargetRole": "ShiftDown"
+      },
+      {
+        "ButtonId": 1,
+        "TargetRole": "ShiftUp"
+      },
+      {
+        "ButtonId": 2,
+        "TargetRole": "Flash"
+      },
+      {
+        "ButtonId": 3,
+        "TargetRole": "DRS"
+      },
+      {
+        "ButtonId": 4,
+        "TargetRole": "Delta"
+      },
+      {
+        "ButtonId": 5,
+        "TargetRole": "Wiper"
+      },
+      {
+        "ButtonId": 6,
+        "TargetRole": "PitLimit"
+      },
+      {
+        "ButtonId": 7,
+        "TargetRole": "VOIP"
+      },
+      {
+        "ButtonId": 8,
+        "TargetRole": "Lights"
+      },
+      {
+        "ButtonId": 9,
+        "TargetRole": "Funky 1 Up"
+      },
+      {
+        "ButtonId": 10,
+        "TargetRole": "Funky 1 Down"
+      },
+      {
+        "ButtonId": 11,
+        "TargetRole": "Funky 1 Left"
+      },
+      {
+        "ButtonId": 12,
+        "TargetRole": "Funky 1 Right"
+      },
+      {
+        "ButtonId": 13,
+        "TargetRole": "Funky 1 Push"
+      },
+      {
+        "ButtonId": 14,
+        "TargetRole": "Funky 1 Rotate L"
+      },
+      {
+        "ButtonId": 15,
+        "TargetRole": "Funky 1 Rotate R"
+      },
+      {
+        "ButtonId": 16,
+        "TargetRole": "Funky 2 Up"
+      },
+      {
+        "ButtonId": 17,
+        "TargetRole": "Funky 2 Down"
+      },
+      {
+        "ButtonId": 18,
+        "TargetRole": "Funky 2 Left"
+      },
+      {
+        "ButtonId": 19,
+        "TargetRole": "Funky 2 Right"
+      },
+      {
+        "ButtonId": 20,
+        "TargetRole": "Funky 2 Push"
+      },
+      {
+        "ButtonId": 21,
+        "TargetRole": "Funky 2 Rotate L"
+      },
+      {
+        "ButtonId": 22,
+        "TargetRole": "Funky 2 Rotate R"
+      },
+      {
+        "ButtonId": 23,
+        "TargetRole": "Funky 3 Up"
+      },
+      {
+        "ButtonId": 24,
+        "TargetRole": "Funky 3 Down"
+      },
+      {
+        "ButtonId": 25,
+        "TargetRole": "Funky 3 Left"
+      },
+      {
+        "ButtonId": 26,
+        "TargetRole": "Funky 3 Right"
+      },
+      {
+        "ButtonId": 27,
+        "TargetRole": "Funky 3 Push"
+      },
+      {
+        "ButtonId": 28,
+        "TargetRole": "Funky 3 Rotate L"
+      },
+      {
+        "ButtonId": 29,
+        "TargetRole": "Funky 3 Rotate R"
+      },
+      {
+        "ButtonId": 30,
+        "TargetRole": "ENC1-"
+      },
+      {
+        "ButtonId": 31,
+        "TargetRole": "ENC1+"
+      },
+      {
+        "ButtonId": 32,
+        "TargetRole": "ENC2-"
+      },
+      {
+        "ButtonId": 33,
+        "TargetRole": "ENC2+"
+      },
+      {
+        "ButtonId": 34,
+        "TargetRole": "ENC3-"
+      },
+      {
+        "ButtonId": 35,
+        "TargetRole": "ENC3+"
+      },
+      {
+        "ButtonId": 36,
+        "TargetRole": "ENC4-"
+      },
+      {
+        "ButtonId": 37,
+        "TargetRole": "ENC4+"
+      },
+      {
+        "ButtonId": 38,
+        "TargetRole": "ENC5-"
+      },
+      {
+        "ButtonId": 39,
+        "TargetRole": "ENC5+"
+      },
+      {
+        "ButtonId": 40,
+        "TargetRole": "ROT1-"
+      },
+      {
+        "ButtonId": 41,
+        "TargetRole": "ROT1+"
+      },
+      {
+        "ButtonId": 42,
+        "TargetRole": "ROT2-"
+      },
+      {
+        "ButtonId": 43,
+        "TargetRole": "ROT2+"
+      },
+      {
+        "ButtonId": 44,
+        "TargetRole": "ROT3-"
+      },
+      {
+        "ButtonId": 45,
+        "TargetRole": "ROT3+"
+      },
+      {
+        "ButtonId": 46,
+        "TargetRole": "ROT4-"
+      },
+      {
+        "ButtonId": 47,
+        "TargetRole": "ROT4+"
+      },
+      {
+        "ButtonId": 48,
+        "TargetRole": "ROT5-"
+      },
+      {
+        "ButtonId": 49,
+        "TargetRole": "ROT5+"
+      },
+      {
+        "ButtonId": 50,
+        "TargetRole": "Thumb1-"
+      },
+      {
+        "ButtonId": 51,
+        "TargetRole": "Thumb1+"
+      },
+      {
+        "ButtonId": 52,
+        "TargetRole": "Thumb2-"
+      },
+      {
+        "ButtonId": 53,
+        "TargetRole": "Thumb2+"
+      },
+      {
+        "ButtonId": 54,
+        "TargetRole": "Thumb3-"
+      },
+      {
+        "ButtonId": 55,
+        "TargetRole": "Thumb3+"
+      },
+      {
+        "ButtonId": 56,
+        "TargetRole": "Thumb4-"
+      },
+      {
+        "ButtonId": 57,
+        "TargetRole": "Thumb4+"
+      },
+      {
+        "ButtonId": 58,
+        "TargetRole": "Ignition"
+      },
+      {
+        "ButtonId": 59,
+        "TargetRole": "Starter"
+      },
+      {
+        "ButtonId": 60,
+        "TargetRole": "ENC1 Push"
+      },
+      {
+        "ButtonId": 61,
+        "TargetRole": "ENC2 Push"
+      },
+      {
+        "ButtonId": 62,
+        "TargetRole": "ENC3 Push"
+      },
+      {
+        "ButtonId": 63,
+        "TargetRole": "ENC4 Push"
+      },
+      {
+        "ButtonId": 64,
+        "TargetRole": "ENC5 Push"
+      },
+      {
+        "ButtonId": 65,
+        "TargetRole": "Tow"
+      },
+      {
+        "ButtonId": 66,
+        "TargetRole": "Tearoff"
+      },
+      {
+        "ButtonId": 67,
+        "TargetRole": "Reset Set"
+      },
+      {
+        "ButtonId": 68,
+        "TargetRole": "Reset Respawn"
+      },
+      {
+        "ButtonId": 69,
+        "TargetRole": "VR Recenter"
+      },
+      {
+        "ButtonId": 70
+      },
+      {
+        "ButtonId": 71
+      },
+      {
+        "ButtonId": 72
+      },
+      {
+        "ButtonId": 73
+      },
+      {
+        "ButtonId": 74
+      },
+      {
+        "ButtonId": 75
+      },
+      {
+        "ButtonId": 76
+      },
+      {
+        "ButtonId": 77
+      },
+      {
+        "ButtonId": 78
+      },
+      {
+        "ButtonId": 79
+      },
+      {
+        "ButtonId": 80
+      },
+      {
+        "ButtonId": 81
+      },
+      {
+        "ButtonId": 82
+      },
+      {
+        "ButtonId": 83
+      },
+      {
+        "ButtonId": 84
+      },
+      {
+        "ButtonId": 85
+      },
+      {
+        "ButtonId": 86
+      },
+      {
+        "ButtonId": 87
+      },
+      {
+        "ButtonId": 88
+      },
+      {
+        "ButtonId": 89
+      },
+      {
+        "ButtonId": 90
+      },
+      {
+        "ButtonId": 91
+      },
+      {
+        "ButtonId": 92
+      },
+      {
+        "ButtonId": 93
+      },
+      {
+        "ButtonId": 94
+      },
+      {
+        "ButtonId": 95
+      },
+      {
+        "ButtonId": 96
+      },
+      {
+        "ButtonId": 97
+      },
+      {
+        "ButtonId": 98
+      },
+      {
+        "ButtonId": 99
+      },
+      {
+        "ButtonId": 100
+      },
+      {
+        "ButtonId": 101
+      },
+      {
+        "ButtonId": 102
+      },
+      {
+        "ButtonId": 103
+      },
+      {
+        "ButtonId": 104
+      },
+      {
+        "ButtonId": 105
+      },
+      {
+        "ButtonId": 106
+      },
+      {
+        "ButtonId": 107
+      },
+      {
+        "ButtonId": 108
+      },
+      {
+        "ButtonId": 109
+      },
+      {
+        "ButtonId": 110
+      },
+      {
+        "ButtonId": 111
+      },
+      {
+        "ButtonId": 112
+      },
+      {
+        "ButtonId": 113
+      },
+      {
+        "ButtonId": 114
+      },
+      {
+        "ButtonId": 115
+      },
+      {
+        "ButtonId": 116
+      },
+      {
+        "ButtonId": 117
+      },
+      {
+        "ButtonId": 118
+      },
+      {
+        "ButtonId": 119
+      },
+      {
+        "ButtonId": 120
+      },
+      {
+        "ButtonId": 121
+      },
+      {
+        "ButtonId": 122
+      },
+      {
+        "ButtonId": 123
+      },
+      {
+        "ButtonId": 124
+      },
+      {
+        "ButtonId": 125
+      },
+      {
+        "ButtonId": 126
+      },
+      {
+        "ButtonId": 127
+      },
+      {
+        "ButtonId": 128
+      },
+      {
+        "ButtonId": 129
+      },
+      {
+        "ButtonId": 130
+      },
+      {
+        "ButtonId": 131
+      },
+      {
+        "ButtonId": 132
+      },
+      {
+        "ButtonId": 133
+      },
+      {
+        "ButtonId": 134
+      },
+      {
+        "ButtonId": 135
+      },
+      {
+        "ButtonId": 136
+      },
+      {
+        "ButtonId": 137
+      },
+      {
+        "ButtonId": 138
+      },
+      {
+        "ButtonId": 139
+      },
+      {
+        "ButtonId": 140
+      },
+      {
+        "ButtonId": 141
+      },
+      {
+        "ButtonId": 142
+      },
+      {
+        "ButtonId": 143
+      },
+      {
+        "ButtonId": 144
+      },
+      {
+        "ButtonId": 145
+      },
+      {
+        "ButtonId": 146
+      },
+      {
+        "ButtonId": 147
+      },
+      {
+        "ButtonId": 148
+      },
+      {
+        "ButtonId": 149
+      },
+      {
+        "ButtonId": 150
+      },
+      {
+        "ButtonId": 151
+      },
+      {
+        "ButtonId": 152
+      },
+      {
+        "ButtonId": 153
+      },
+      {
+        "ButtonId": 154
+      },
+      {
+        "ButtonId": 155
+      },
+      {
+        "ButtonId": 156
+      },
+      {
+        "ButtonId": 157
+      },
+      {
+        "ButtonId": 158
+      },
+      {
+        "ButtonId": 159
+      },
+      {
+        "ButtonId": 160
+      },
+      {
+        "ButtonId": 161
+      },
+      {
+        "ButtonId": 162
+      },
+      {
+        "ButtonId": 163
+      },
+      {
+        "ButtonId": 164
+      },
+      {
+        "ButtonId": 165
+      },
+      {
+        "ButtonId": 166
+      },
+      {
+        "ButtonId": 167
+      },
+      {
+        "ButtonId": 168
+      },
+      {
+        "ButtonId": 169
+      },
+      {
+        "ButtonId": 170
+      },
+      {
+        "ButtonId": 171
+      },
+      {
+        "ButtonId": 172
+      },
+      {
+        "ButtonId": 173
+      },
+      {
+        "ButtonId": 174
+      },
+      {
+        "ButtonId": 175
+      },
+      {
+        "ButtonId": 176
+      },
+      {
+        "ButtonId": 177
+      },
+      {
+        "ButtonId": 178
+      },
+      {
+        "ButtonId": 179
+      },
+      {
+        "ButtonId": 180
+      },
+      {
+        "ButtonId": 181
+      },
+      {
+        "ButtonId": 182
+      },
+      {
+        "ButtonId": 183
+      },
+      {
+        "ButtonId": 184
+      },
+      {
+        "ButtonId": 185
+      },
+      {
+        "ButtonId": 186
+      },
+      {
+        "ButtonId": 187
+      },
+      {
+        "ButtonId": 188
+      },
+      {
+        "ButtonId": 189
+      },
+      {
+        "ButtonId": 190
+      },
+      {
+        "ButtonId": 191
+      },
+      {
+        "ButtonId": 192
+      },
+      {
+        "ButtonId": 193
+      },
+      {
+        "ButtonId": 194
+      },
+      {
+        "ButtonId": 195
+      },
+      {
+        "ButtonId": 196
+      },
+      {
+        "ButtonId": 197
+      },
+      {
+        "ButtonId": 198
+      },
+      {
+        "ButtonId": 199
+      },
+      {
+        "ButtonId": 200
+      },
+      {
+        "ButtonId": 201
+      },
+      {
+        "ButtonId": 202
+      },
+      {
+        "ButtonId": 203
+      },
+      {
+        "ButtonId": 204
+      },
+      {
+        "ButtonId": 205
+      },
+      {
+        "ButtonId": 206
+      },
+      {
+        "ButtonId": 207
+      },
+      {
+        "ButtonId": 208
+      },
+      {
+        "ButtonId": 209
+      },
+      {
+        "ButtonId": 210
+      },
+      {
+        "ButtonId": 211
+      },
+      {
+        "ButtonId": 212
+      },
+      {
+        "ButtonId": 213
+      },
+      {
+        "ButtonId": 214
+      },
+      {
+        "ButtonId": 215
+      },
+      {
+        "ButtonId": 216
+      },
+      {
+        "ButtonId": 217
+      },
+      {
+        "ButtonId": 218
+      },
+      {
+        "ButtonId": 219
+      },
+      {
+        "ButtonId": 220
+      },
+      {
+        "ButtonId": 221
+      },
+      {
+        "ButtonId": 222
+      },
+      {
+        "ButtonId": 223
+      },
+      {
+        "ButtonId": 224
+      },
+      {
+        "ButtonId": 225
+      },
+      {
+        "ButtonId": 226
+      },
+      {
+        "ButtonId": 227
+      },
+      {
+        "ButtonId": 228
+      },
+      {
+        "ButtonId": 229
+      },
+      {
+        "ButtonId": 230
+      },
+      {
+        "ButtonId": 231
+      },
+      {
+        "ButtonId": 232
+      },
+      {
+        "ButtonId": 233
+      },
+      {
+        "ButtonId": 234
+      },
+      {
+        "ButtonId": 235
+      },
+      {
+        "ButtonId": 236
+      },
+      {
+        "ButtonId": 237
+      },
+      {
+        "ButtonId": 238
+      },
+      {
+        "ButtonId": 239
+      },
+      {
+        "ButtonId": 240
+      },
+      {
+        "ButtonId": 241
+      },
+      {
+        "ButtonId": 242
+      },
+      {
+        "ButtonId": 243
+      },
+      {
+        "ButtonId": 244
+      },
+      {
+        "ButtonId": 245
+      },
+      {
+        "ButtonId": 246
+      },
+      {
+        "ButtonId": 247
+      },
+      {
+        "ButtonId": 248
+      },
+      {
+        "ButtonId": 249
+      },
+      {
+        "ButtonId": 250
+      },
+      {
+        "ButtonId": 251
+      },
+      {
+        "ButtonId": 252
+      },
+      {
+        "ButtonId": 253
+      },
+      {
+        "ButtonId": 254
+      },
+      {
+        "ButtonId": 255
+      },
+      {
+        "ButtonId": 256
+      },
+      {
+        "ButtonId": 257
+      },
+      {
+        "ButtonId": 258
+      },
+      {
+        "ButtonId": 259
+      },
+      {
+        "ButtonId": 260
+      },
+      {
+        "ButtonId": 261
+      },
+      {
+        "ButtonId": 262
+      },
+      {
+        "ButtonId": 263
+      },
+      {
+        "ButtonId": 264
+      },
+      {
+        "ButtonId": 265
+      },
+      {
+        "ButtonId": 266
+      },
+      {
+        "ButtonId": 267
+      },
+      {
+        "ButtonId": 268
+      },
+      {
+        "ButtonId": 269
+      },
+      {
+        "ButtonId": 270
+      },
+      {
+        "ButtonId": 271
+      },
+      {
+        "ButtonId": 272
+      },
+      {
+        "ButtonId": 273
+      },
+      {
+        "ButtonId": 274
+      },
+      {
+        "ButtonId": 275
+      },
+      {
+        "ButtonId": 276
+      },
+      {
+        "ButtonId": 277
+      },
+      {
+        "ButtonId": 278
+      },
+      {
+        "ButtonId": 279
+      },
+      {
+        "ButtonId": 280
+      },
+      {
+        "ButtonId": 281
+      },
+      {
+        "ButtonId": 282
+      },
+      {
+        "ButtonId": 283
+      },
+      {
+        "ButtonId": 284
+      },
+      {
+        "ButtonId": 285
+      },
+      {
+        "ButtonId": 286
+      },
+      {
+        "ButtonId": 287
+      },
+      {
+        "ButtonId": 288
+      },
+      {
+        "ButtonId": 289
+      },
+      {
+        "ButtonId": 290
+      },
+      {
+        "ButtonId": 291
+      },
+      {
+        "ButtonId": 292
+      },
+      {
+        "ButtonId": 293
+      },
+      {
+        "ButtonId": 294
+      },
+      {
+        "ButtonId": 295
+      },
+      {
+        "ButtonId": 296
+      },
+      {
+        "ButtonId": 297
+      },
+      {
+        "ButtonId": 298
+      },
+      {
+        "ButtonId": 299
+      },
+      {
+        "ButtonId": 300
+      },
+      {
+        "ButtonId": 301
+      },
+      {
+        "ButtonId": 302
+      },
+      {
+        "ButtonId": 303
+      },
+      {
+        "ButtonId": 304
+      },
+      {
+        "ButtonId": 305
+      },
+      {
+        "ButtonId": 306
+      },
+      {
+        "ButtonId": 307
+      },
+      {
+        "ButtonId": 308
+      },
+      {
+        "ButtonId": 309
+      },
+      {
+        "ButtonId": 310
+      },
+      {
+        "ButtonId": 311
+      },
+      {
+        "ButtonId": 312
+      },
+      {
+        "ButtonId": 313
+      },
+      {
+        "ButtonId": 314
+      },
+      {
+        "ButtonId": 315
+      },
+      {
+        "ButtonId": 316
+      },
+      {
+        "ButtonId": 317
+      },
+      {
+        "ButtonId": 318
+      },
+      {
+        "ButtonId": 319
+      },
+      {
+        "ButtonId": 320
+      },
+      {
+        "ButtonId": 321
+      },
+      {
+        "ButtonId": 322
+      },
+      {
+        "ButtonId": 323
+      },
+      {
+        "ButtonId": 324
+      },
+      {
+        "ButtonId": 325
+      },
+      {
+        "ButtonId": 326
+      },
+      {
+        "ButtonId": 327
+      },
+      {
+        "ButtonId": 328
+      },
+      {
+        "ButtonId": 329
+      },
+      {
+        "ButtonId": 330
+      },
+      {
+        "ButtonId": 331
+      },
+      {
+        "ButtonId": 332
+      },
+      {
+        "ButtonId": 333
+      },
+      {
+        "ButtonId": 334
+      },
+      {
+        "ButtonId": 335
+      },
+      {
+        "ButtonId": 336
+      },
+      {
+        "ButtonId": 337
+      },
+      {
+        "ButtonId": 338
+      },
+      {
+        "ButtonId": 339
+      },
+      {
+        "ButtonId": 340
+      },
+      {
+        "ButtonId": 341
+      },
+      {
+        "ButtonId": 342
+      },
+      {
+        "ButtonId": 343
+      },
+      {
+        "ButtonId": 344
+      },
+      {
+        "ButtonId": 345
+      },
+      {
+        "ButtonId": 346
+      },
+      {
+        "ButtonId": 347
+      },
+      {
+        "ButtonId": 348
+      },
+      {
+        "ButtonId": 349
+      },
+      {
+        "ButtonId": 350
+      },
+      {
+        "ButtonId": 351
+      },
+      {
+        "ButtonId": 352
+      },
+      {
+        "ButtonId": 353
+      },
+      {
+        "ButtonId": 354
+      },
+      {
+        "ButtonId": 355
+      },
+      {
+        "ButtonId": 356
+      },
+      {
+        "ButtonId": 357
+      },
+      {
+        "ButtonId": 358
+      },
+      {
+        "ButtonId": 359
+      },
+      {
+        "ButtonId": 360
+      },
+      {
+        "ButtonId": 361
+      },
+      {
+        "ButtonId": 362
+      },
+      {
+        "ButtonId": 363
+      },
+      {
+        "ButtonId": 364
+      },
+      {
+        "ButtonId": 365
+      },
+      {
+        "ButtonId": 366
+      },
+      {
+        "ButtonId": 367
+      },
+      {
+        "ButtonId": 368
+      },
+      {
+        "ButtonId": 369
+      },
+      {
+        "ButtonId": 370
+      },
+      {
+        "ButtonId": 371
+      },
+      {
+        "ButtonId": 372
+      },
+      {
+        "ButtonId": 373
+      },
+      {
+        "ButtonId": 374
+      },
+      {
+        "ButtonId": 375
+      },
+      {
+        "ButtonId": 376
+      },
+      {
+        "ButtonId": 377
+      },
+      {
+        "ButtonId": 378
+      },
+      {
+        "ButtonId": 379
+      },
+      {
+        "ButtonId": 380
+      },
+      {
+        "ButtonId": 381
+      },
+      {
+        "ButtonId": 382
+      },
+      {
+        "ButtonId": 383
+      }
+    ]
+  }
+}

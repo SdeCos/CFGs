@@ -1,6 +1,4 @@
 # Simucube CFGs
-## ToDo
-- [ ] Lista con las ubicaciones de los archivos
-- [ ] Perfiles FFB
-- [ ] Carpeta cachedprofiles (ubicada en Documents\Simucube 2)
-- [ ] Captura de pantalla de la configuracion de True Drive
+## Perfiles FFB
+- [x] [iRacing](./Archivos/Dan%20Suzuki%20iRacing%20360%20Hz%20-%20Simucube%202%20wheelbase.tdp)
+- [x] [LMU](./Archivos/Sidge%20Le%20Mans%20Ultimate%20-%20Simucube%202%20wheelbase.tdp)

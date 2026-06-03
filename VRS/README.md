@@ -1,5 +1,4 @@
 # VRS CFGs
-## ToDo
-- [ ] Lista con las ubicaciones de los archivos
-- [ ] Perfiles de calibracion
-- [ ] Curvas de loadcell
+## Perfiles
+- [x] [Pedales](./Archivos/Pedals-Default.vprf)
+- [x] [Volante](./Archivos/ProWheel-Default.vprf)

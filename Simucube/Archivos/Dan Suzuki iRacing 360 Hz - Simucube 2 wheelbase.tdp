@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "device": "wheel_base_sc2",
+    "modification_time": "2026-03-17T17:12:39",
+    "name": "Dan Suzuki iRacing 360 Hz",
+    "profiles": {
+        "wheel_base_sc2": {
+            "bumpstop": 1,
+            "center_damping": 0,
+            "center_damping_angle": 0,
+            "damping": 100,
+            "endstop_offset": 0,
+            "friction": 100,
+            "gamma_filter": 1,
+            "in_game_centering": 0,
+            "ioni_damping": 13,
+            "ioni_friction": 8,
+            "ioni_inertia": 7,
+            "low_latency": 9,
+            "max_strength": 100,
+            "notch_attenuation": -25.5,
+            "notch_freq": 0,
+            "notch_qfactor": 0,
+            "reconstruction": 4,
+            "sawtooth": 100,
+            "sine": 100,
+            "slew_rate": 4.468,
+            "spring": 100,
+            "square": 100,
+            "static_force": 14,
+            "static_force_speed": 1000,
+            "torque_bandwidth_limit": 11,
+            "triangle": 100,
+            "wb_range": 900,
+            "wheel_paddles_to_accessory": true
+        }
+    },
+    "revision": 0,
+    "role": "wheelbase",
+    "tags": [
+        "game:iracing"
+    ],
+    "type": "device",
+    "uuid": "48eeaea0-2b4e-11ef-98b1-27b2edd78b10",
+    "v": 1
+}
