@@ -8,5 +8,5 @@ Configuraciones para iRacing. Los archivos deben colocarse en la carpeta de docu
 
 - [x] [controls.cfg](./Archivos/controls.cfg) - Mapeo de botones y controles.
 - [x] [joyCalib.yaml](./Archivos/joyCalib.yaml) - Calibración de periféricos.
+- [x] `RenderDX11Monitor.ini` (gráficos)
 - [ ] `app.ini` (audio) `[WIP]` - Pendiente de configurar.
-- [ ] `RenderDX11Monitor.ini` (gráficos) `[WIP]` - Pendiente de configurar.
