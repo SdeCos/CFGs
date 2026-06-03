@@ -4,7 +4,7 @@ Repositorio personal para almacenar y respaldar mis configuraciones de simulador
 
 ## Índice
 
-- [iRacing](./iRacing/) - Configuración de controles y calibración.
-- [SimHub](./SimHub/) - Mapeos de controles y Dashboards.
-- [Simucube](./Simucube/) - Perfiles de Force Feedback (True Drive).
-- [VRS](./VRS/) - Perfiles para volante y pedales.
+- [iRacing](iRacing) - Configuración de controles y calibración.
+- [SimHub](SimHub) - Mapeos de controles y Dashboards.
+- [Simucube](Simucube) - Perfiles de Force Feedback (True Drive).
+- [VRS](VRS) - Perfiles para volante y pedales.
